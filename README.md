@@ -8,8 +8,7 @@ To perform logistic regression on the **Diabetes Health Indicators** dataset:
 2. Run the `PrepareAndTestDataset.py` file.
 
 
-## Datasets
-The datasets are included in their respective folders:
+## Dataset
 - `DiabetesHealthIndicators/Data`: Contains the data for logistic regression.
 
 ## Results
@@ -17,7 +16,7 @@ Any resulting figures/graphs will be saved in their respective folders:
 - `DiabetesHealthIndicators/Results`: Contains the results for logistic regression.
 
 ## Helper Functions
-The `Helper.py` file contains all the helper functions used throughout this project.
+The `Helper.py` and `PlotHelpers.py` file contains all the helper functions used throughout this project.
 
 ## Prerequisites
 Make sure you have the following Python libraries installed:
