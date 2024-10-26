@@ -1,4 +1,4 @@
-from Assignment1.Helpers import *
+from DiabetesHealthIndicators.Helpers import *
 from sklearn.metrics import log_loss
 
 

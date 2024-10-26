@@ -1,7 +1,7 @@
 from LogisticRegression import *
 from MiniBatchLogisticRegression import *
-from Assignment1.Helpers import *
-from Assignment1.PlotHelpers import *
+from DiabetesHealthIndicators.Helpers import *
+from DiabetesHealthIndicators.PlotHelpers import *
 
 
 def preprocess_diabetes_data(file_name):

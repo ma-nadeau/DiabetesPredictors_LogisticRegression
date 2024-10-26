@@ -1,5 +1,5 @@
 import numpy as np
-from Assignment1.Helpers import sigmoid
+from DiabetesHealthIndicators.Helpers import sigmoid
 
 
 class LogisticRegression:
