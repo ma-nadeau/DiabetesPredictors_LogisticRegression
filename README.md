@@ -1,8 +1,14 @@
-#Logistic Regression
+# Logistic Regression
 
 This project implements a logistic regression model from scratch. You can easily run the analysis on the dataset by following the instructions below.
 
+## Contributors
+
+Created by [Marc-Antoine Nadeau](https://github.com/ma-nadeau), [Jessie Kurtz](https://github.com/jkzcodes), and [Baicheng Peng](https://github.com/sivess)
+
+
 ## How to Run
+
 To perform logistic regression on the **Diabetes Health Indicators** dataset:
 1. Navigate to the `DiabetesHealthIndicators` folder.
 2. Run the `PrepareAndTestDataset.py` file.
